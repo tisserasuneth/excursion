@@ -3,14 +3,32 @@ body{
     text-align: center;
 }
 
-h1{
+#title {
     font-family: Verdana;
+    color: white;
+}
+h1{
     font-weight: normal;
     font-size: 50px;
-    color: white;
 }
 
 h2{
     color: aquamarine;
     font-size: 16px;
+}
+
+h3{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#grayDesc{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+footer{
+    text-align: right;
+    color: gray;
 }
